@@ -1,3 +1,21 @@
+> [!CAUTION]
+> ## ⚰️ PROJECT PERMANENTLY TERMINATED — SEPTEMBER 2026
+>
+> **The HardwareScript Plugin SDK has been permanently shut down and archived.**
+>
+> The parent project, HardwareScript, was concluded to be a fundamental category error. The Plugin ABI, WASM plugin host, and HPM registry are all **permanently abandoned**. This repository is preserved as a historical artifact only.
+>
+> - The `hw-plugin-abi` crate is **permanently archived** — do not build new plugins against it.
+> - The WASM64 plugin host runtime is **permanently decommissioned**.
+> - The `hw plugin publish` registry is **permanently dissolved**.
+> - **No further development, issues, or PRs will be accepted.**
+>
+> For the full technical post-mortem, see [`Docs/End/Final-Status.md`](../Docs/End/Final-Status.md).
+>
+> *HardwareScript Architecture Team — September 2026*
+
+---
+
 # Hardware Script Plugin SDK
 
 **Permissively Licensed ABI & Developer SDK for Hardware Script Extensions**
